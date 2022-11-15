@@ -1,0 +1,15 @@
+body{
+    background-color: aquamarine;
+}
+H1{
+    font-family: Amatic SC;
+    text-align: center;
+    text-decoration: underline;
+}
+h2{
+    font-family: Amatic SC;
+    text-align: center;
+}
+.pic1{
+    padding-left: 30px;
+}
