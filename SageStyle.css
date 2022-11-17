@@ -8,8 +8,28 @@ H1{
 }
 h2{
     font-family: Amatic SC;
-    text-align: center;
-}
+    text-align: center;}
 .pic1{
-    padding-left: 30px;
+    float: left;
+    padding: 25px;
+    
 }
+    .pic1text{ 
+    padding: 100px;
+    margin: 30px;
+    border-style: solid;
+    
+}    
+ul{
+    line-height: 50px;
+}
+.pic2{
+    float: left;
+    padding: 50px;
+}
+.pic2text{ 
+    padding: 100px;
+    margin: 30px;
+    border-style: solid;
+    
+}    
